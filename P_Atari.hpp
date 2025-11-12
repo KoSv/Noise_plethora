@@ -6,6 +6,7 @@
 #pragma once
 
 #include "Plugin.hpp"
+#include "np_engine.hpp"
 
 class Atari : public Plugin {
 

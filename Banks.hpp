@@ -8,6 +8,7 @@
 
 #include <string>
 #include <memory>
+#include <array>
 
 static const int programsPerBank = 10;
 static const int numBanks = 5;
